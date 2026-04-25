@@ -21,4 +21,4 @@ Documentação oficial da biblioteca utilizada para controlar o Arduino em tempo
 * **Repositório GitHub:** [pyfirmata2 GitHub](https://github.com/p-bernd/pyfirmata2)
 
 ---
-*Documento gerado para auxiliar no projeto de automação com Python.*
+*Documento para auxiliar no projeto de automação com Python.*
