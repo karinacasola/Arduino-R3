@@ -16,7 +16,7 @@ def atualizar_luz(nivel_luz):
 
     agora = time.time()
     if agora - ultimo_print >= 0.5:
-        # Inverte o valor do sensor para fazer sentido na nossa cabeça:
+        
         # Perto de 1.0 = Muito Claro | Perto de 0.0 = Muito Escuro
         luminosidade = round(1.0 - nivel_luz, 2)
         
